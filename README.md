@@ -147,6 +147,9 @@ Sonarqube runs on: http://localhost:9000
   2. Redmine: http://localhost:10083
 
      Wait for 2-3 minutes, then refresh the page
+     
+  ![Screenshot from 2023-02-27 11-58-25](https://user-images.githubusercontent.com/122020679/221490679-4a91ec32-1fb9-4167-a4e7-c8013a46115e.png)
+
     
   3. Sonarqube: http://localhost:9000
   
